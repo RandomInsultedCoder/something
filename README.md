@@ -1,2 +1,3 @@
-# duo-hyper
- a duo that will kill all enemies by crashing.
+# hello
+this is a mod i made
+please understand im a new modder
